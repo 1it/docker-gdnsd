@@ -3,7 +3,7 @@
 **Source repository** [gdnsd](https://github.com/gdnsd/gdnsd)  
 **Docs** [wiki](https://github.com/gdnsd/gdnsd/wiki)  
 
-*Current tags:* [`latest`](https://github.com/1it/docker_gdnsd/blob/master/Dockerfile), [`3.2.1`](https://github.com/1it/docker_gdnsd/blob/master/Dockerfile)
+*Current tags:* [`latest`](https://github.com/1it/docker_gdnsd/blob/master/Dockerfile), [`3.2.2`](https://github.com/1it/docker-gdnsd/blob/3.2.2/Dockerfile)
 
 ## Usage:  
 
