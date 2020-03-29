@@ -1,6 +1,6 @@
 FROM alpine:latest as builder
 
-ENV VERSION=3.2.1
+ENV VERSION=3.2.2
 
 RUN apk add --no-cache \
             autoconf \
